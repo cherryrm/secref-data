@@ -3,6 +3,7 @@
     "configMode": "LOCAL"
   },
   "checkRunSettings": {
+    "displayMode": "diff", 
     "vulnerableCheckRunConclusionLevel": "failure"
   },
   "issueSettings": {
